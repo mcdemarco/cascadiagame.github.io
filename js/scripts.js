@@ -4136,7 +4136,7 @@ function calculateSalmonTokenScoring() {
 		'4': 11,
 		'5': 15,
 		'6': 20,
-		'7': 26
+		'7': 25
 	}
 
 	const tokenIDs = Object.keys(allPlacedTokens);
