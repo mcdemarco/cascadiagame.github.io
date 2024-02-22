@@ -122,7 +122,7 @@ var rotateTileAllowed = false;
 
 var currentView = 'desktop';
 
-var rulesURL = 'https://drive.google.com/file/d/1fY8-__M2f0QSxvBi0P2oycG6F0l1yJiI/view';
+var rulesURL = 'https://www.alderac.com/wp-content/uploads/2021/08/Cascadia-Rules.pdf';
 
 $(window).resize(function() {
 	checkScreenWidth();
